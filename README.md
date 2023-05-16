@@ -7,8 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah gharabat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah gharabat" height="30" width="40" /></a>
-<a href="https://fb.com/abdullah gharabat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah gharabat" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/
+abdullah-gharabat-58761b264
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah gharabat" height="30" width="40" /></a>
+<a href="[https://fb.com/abdullah gharabat](https://web.facebook.com/abdallah.ghrabat)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah gharabat" height="30" width="40" /></a>
 <a href="https://instagram.com/a3.o4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a3.o4" height="30" width="40" /></a>
 <a href="https://discord.gg/#8291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8291" height="30" width="40" /></a>
 </p>
