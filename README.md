@@ -21,7 +21,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" alt="sql" width="40" height="45"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<!-- <a href="https://www.genexus.com/en/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/product-logos/bx/Cg/7WCHAGNVF89L.JPEG" alt="postman" width="40" height="40"/> </a> -->
+ <a href="https://www.genexus.com/en/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/product-logos/bx/Cg/7WCHAGNVF89L.JPEG" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-gharabat&show_icons=true&locale=en&layout=compact" alt="abdullah-gharabat" /></p>
